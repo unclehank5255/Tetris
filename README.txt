@@ -1,0 +1,3 @@
+https://home.gamer.com.tw/artwork.php?sn=5174291
+
+參考程式碼 和用gpt去調改出來的
